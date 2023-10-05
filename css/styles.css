@@ -1,6 +1,11 @@
 p{
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 table{
     border: solid 1px orange;
+}
+
+a{
+    width: 200px;
 }
